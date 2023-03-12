@@ -27,20 +27,20 @@ This is a real-time chat application built with Django, Channels, and WebSocket.
 
 ### Installation
 1. Change into the project directory
-    cd AWD_FinalProject
+        cd AWD_FinalProject
 2. Create a virtual environment:
-    python -m venv env
+        python -m venv env
 3. Activate the virtual environment:
     On Windows:
-        env\Scripts\activate
+            env\Scripts\activate
     On macOS or Linux:
-        On macOS or Linux:
+            On macOS or Linux:
 4. Install the dependencies:
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 5. Run the migrations:
-    python manage.py migrate
+        python manage.py migrate
 6. Start the development server:
-    python manage.py migrate
+        python manage.py migrate
 7. Access the application at http://localhost:8000/
 
 ## Usage
